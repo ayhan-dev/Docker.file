@@ -7,6 +7,7 @@
 </div>
 
   - **PHP**
+  - **R**
   - **Nodejs**
   - **Python**
   - **React**
