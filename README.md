@@ -9,6 +9,7 @@
   - **PHP**
   - **R**
   - **Nodejs**
+  - **Vue.js**
   - **Python**
   - **React**
   - **Rust**
