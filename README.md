@@ -14,6 +14,7 @@
   - **Python**
   - **React**
   - **Rust**
+  - **Ruby**
   - **Golang**
   - **Java Quarkus**
   - **Java.Spring.Boot**
