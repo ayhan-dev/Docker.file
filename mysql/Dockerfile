@@ -8,8 +8,8 @@ RUN \
   rm -rf /var/lib/apt/lists/*
 
 COPY my.cnf /etc/mysql/my.cnf
-COPY start.sh start.sh
+COPY main.sh main.sh
 VOLUME ["/var/lib/mysql"]
 RUN rm /usr/sbin/policy-rc.d
-CMD ["/start.sh"]
+CMD ["/main.sh"]
 EXPOSE 3306
